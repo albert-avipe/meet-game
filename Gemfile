@@ -17,7 +17,7 @@ gem 'turbolinks',     '~> 5'
 gem 'devise',         '4.3.0'
 gem 'jquery-rails',   '4.3.1'
 gem 'bootstrap-sass', '3.3.7'
-gem 'bcrypt', git: 'https://github.com/codahale/bcrypt-ruby.git', :require => 'bcrypt'
+gem 'bcrypt',         '3.1.11'
 
 # gem 'redis', '~> 3.0'1
 # gem 'therubyracer', platforms: :ruby
